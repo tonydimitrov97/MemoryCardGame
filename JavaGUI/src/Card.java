@@ -1,10 +1,6 @@
 /**
  * Card.java
  * Card object with a front and back side with flips
- * Date: 5-11-17
- * Java 1125
- * Spring 2017
- * Homework Assignment 5
  * @author Antonio Dimitrov
  */
 import java.awt.Image;
