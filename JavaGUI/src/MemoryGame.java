@@ -1,10 +1,6 @@
 /**
  * MemoryGame.java
  * Creates a GUI and handles clicking of memory game
- * Date: 5-11-17
- * Java 1125
- * Spring 2017
- * Homework Assignment 5
  * @author Antonio Dimitrov
  */
 import java.awt.BorderLayout;
